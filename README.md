@@ -8,7 +8,7 @@ Moving on, this food ordering system project in Python Django focuses mainly on 
 
 Admin Panel, 
 Food Menu 
-Order Management
+and Order Management
 
 
 On the other hand, the user can access the Django administrator panel by providing admin credentials. The Django administrator panel contains all the management sides of the system. It includes management of food menu, user, and orders. The administrator can simply add more food menus by providing details such as name, description, price, and GIF attachment to it. Similarly, the user can check the customer order section to list all the orders. Here, the admin can simply check on the delivered radio button to mark it as delivered. Or also, the admin can log in to the system and check the orders section to list out all the orders. It displays order date, order items, customer’s name with order status. The admin can simply click on the order list to mark it as delivered. Rest all the things can be under the Django admin panel.
